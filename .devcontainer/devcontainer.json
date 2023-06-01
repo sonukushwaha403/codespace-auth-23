@@ -25,7 +25,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot-nightly",
 				"ms-vscode.makefile-tools"
 			]
 		}
