@@ -21,7 +21,7 @@
 	"forwardPorts": [5432],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "./setup.sh",
+	"postCreateCommand": "./steup.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
